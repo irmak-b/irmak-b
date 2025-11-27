@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/irmak-bayram-79505b320/](https://www.linkedin.com/in/irmak-bayram-79505b320/)
 
-- ⚡ Fun fact **I currently working on my blog site**
+- ⚡ Fun fact **I currently working on my new project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
