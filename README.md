@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Irmak</h1>
 <h3 align="center">I'm a sophomore majoring in software engineering</h3>
 
-- 🌱 I’m currently learning **Full-Stack Development(Web)**
+- 🌱 I’m currently learning **Mobile development and AI integration**
 
 - 📫 How to reach me **bayramirmak971@gmail.com**
 
