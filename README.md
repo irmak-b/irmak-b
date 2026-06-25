@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFExTyaGNiiCw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1666682963086?e=2147483647&v=beta&t=cxWyERyqdTZOLJMMSNd0kDSjcBxe5WtvumGZVtm1Aoo)
 
 <h1 align="center">Hi 👋, I'm Irmak</h1>
-<h3 align="center">I'm a sophomore majoring in software engineering</h3>
+<h3 align="center">I'm a rising junior majoring in software engineering</h3>
 
 - 🌱 I’m currently learning **Mobile development and AI integration**
 
