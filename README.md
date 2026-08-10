@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Irmak</h1>
 <h3 align="center">I'm a rising junior majoring in software engineering</h3>
 
-- 🌱 I’m currently learning **Mobile development and AI integration**
+- 🌱 I’m currently learning **PostgreSQL** and Fortifying it with **My projects on DataGrip**
 
 - 📫 How to reach me **bayramirmak971@gmail.com**
 
