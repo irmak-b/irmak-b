@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bayramirmak971@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/irmak-bayram-79505b320/](https://www.linkedin.com/in/irmak-bayram-79505b320/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/irmak-bayram-79505b320/](https://www.linkedin.com/in/irmak-bayram/)
 
 - ⚡ Fun fact **I currently working on my new project**
 
